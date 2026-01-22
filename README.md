@@ -276,6 +276,3 @@ Contributions welcome! Areas for improvement:
 
 MIT License - see LICENSE file for details
 
-## Topics
-
-`python` `data-structures` `trie` `prefix-tree` `text-indexing` `search-engine` `algorithms` `educational` `from-scratch` `no-dependencies` `text-search` `autocomplete` `information-retrieval` `computer-science` `cli-tool`
