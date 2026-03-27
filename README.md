@@ -16,7 +16,7 @@ A Python implementation of a text indexing system using a custom-built Trie (pre
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/custom-text-indexer.git
+git clone https://github.com/RighteousW/custom-text-indexer.git
 cd custom-text-indexer
 
 # No dependencies required - pure Python!
